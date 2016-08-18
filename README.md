@@ -1,5 +1,5 @@
 # GWASFormatter
-Java tool to generate .ped and .map files required for GWAS 
+Multithreaded Java tool to generate .ped and .map files required for GWAS 
 
 > java gwas/GWASFormatter2 --help
 
