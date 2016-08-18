@@ -3,8 +3,8 @@ Multithreaded Java tool to generate .ped and .map files required for GWAS
 
 > java gwas/GWASFormatter2 --help
 
-Usage of GWASFormatter
-Use java GWASFormatter2 <varScan file> <patient phenotype file> -hd/-nd threshold numThreads
+Usage of GWASFormatter:
+java GWASFormatter2 varScan_file patient_phenotype_file -hd/-nd threshold numThreads
 Input file formats:
 varScan.txt has the general tab delimetted varScan layout with patient alphaNumeric (PA[0-9]{n} type): chrom	position	ref	var	normal_reads1	
 normal_reads2	normal_var_freq	normal_gt	tumor_reads1	tumor_reads2	tumor_var_freq	tumor_gt	
