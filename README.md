@@ -21,6 +21,6 @@ numThreads indicates the number of threads requested
 
 Output: varScanFileName.ped and varScanFileName.map files in the same directory. Existing files will be overwritten...
 
-V2.7 Developed by Fadi Hariri; fadi.hariri@mail.mcgill.ca
+V2.7 Developed by Fadi Hariri; email: fadi.hariri@mail.mcgill.ca
 
 
