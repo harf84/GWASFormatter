@@ -23,7 +23,9 @@ threshold specifies snp genotype and should be numeric (could be float)
 
 numThreads indicates the number of threads requested
 
-Output: varScanFileName.ped and varScanFileName.map files in the same directory. Existing files will be overwritten...
+Output: varScanFileName.ped and varScanFileName.map files in the same directory. 
+
+Existing files will be overwritten...
 
 V2.7 Developed by Fadi Hariri; email: fadi.hariri@mail.mcgill.ca
 
