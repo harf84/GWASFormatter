@@ -5,7 +5,7 @@ Multithreaded Java tool to generate .ped and .map files required for GWAS
 
 Usage of GWASFormatter:
 
-java GWASFormatter2 varScan_file patient_phenotype_file -hd/-nd threshold numThreads
+java GWASFormatter2 <varScan_file> <patient_phenotype_file> -hd/-nd threshold numThreads
 
 Input file formats:
 
